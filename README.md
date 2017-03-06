@@ -1,5 +1,5 @@
-# node-memobird
-咕咕机SDK
+# memobird
+咕咕机 Node.js SDK
 
 ## 安装
 
