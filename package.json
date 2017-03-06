@@ -1,0 +1,14 @@
+{
+  "name": "memobird",
+  "version": "0.0.1",
+  "description": "咕咕机SDK",
+  "main": "index.js",
+  "repository": "https://github.com/sherluok/node-memobird.git",
+  "author": "sherluok",
+  "license": "MIT",
+  "dependencies": {
+    "gm": "^1.23.0",
+    "iconv-lite": "^0.4.15",
+    "request": "^2.80.0"
+  }
+}
