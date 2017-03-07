@@ -73,7 +73,7 @@ memobird.init()
 
 ## 示例
 
-参考  [examples/index.js]('https://github.com/sherluok/memobird/blob/master/examples/index.js')
+参考 [examples/index.js]('https://github.com/sherluok/memobird/blob/master/examples/index.js')
 
 ```javascript
 const Memobird = require('../');
